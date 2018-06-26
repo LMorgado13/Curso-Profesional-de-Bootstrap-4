@@ -1,0 +1,33 @@
+@import "variable";
+
+//.btn-primary {
+  //background-color: $color-primary;
+  //color: white;
+//}
+
+.btn-secondary {
+  //background-color: $color-default;
+  //color: white;
+
+  &:hover {
+    color: black;
+    background-color: lighten($color-default, 20%);
+  }
+}
+
+//.btn-warning {
+  //background-color: $color-warning;
+  //color: white;
+//}
+
+input:invalid {
+  //background-color: red;
+  border: 5px solid red;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+.navbar-dark .navbar-nav .nav-link {
+  display: inline-block;
+}

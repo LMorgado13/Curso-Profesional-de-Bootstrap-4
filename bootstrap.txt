@@ -1,0 +1,33 @@
+getbootstrap.com
+http://getbootstrap.com/docs/4.1/components/navbar/
+www.npmjs.com
+https://developer.mozilla.org/es/
+isotope.metafizzy.co
+popper.js.org
+fonts.google.com
+960.gs
+unsemantic.com
+fonts.google.com
+formvalidation.io/addons
+getbem.
+useiconic.com/open/
+
+Terminos 
+Boilerplate
+Metatack para que mi botones se vean bien <meta name="viewport" content="width=divice-with, initial-scale=1">
+
+
+
+comandos para bootstrap 4
+npm i -g live-server "instala un pequeño servidor"
+gulp sass:compiled
+npm start 
+npm rum dev
+npm install bootstrap --save-dev
+
+
+https://www.youtube.com/watch?v=bMpDvpIoloQ
+
+http://www.notodocodigo.com/maven/maven-en-eclipse/
+
+http://java-white-box.blogspot.com/2012/11/maven-como-instalar-maven-en-windows.html
