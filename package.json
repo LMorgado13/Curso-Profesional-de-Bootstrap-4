@@ -1,0 +1,32 @@
+{
+  "name": "curso-bootstrap-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server .",
+    "dev": "gulp sass:compiled && gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMorgado13/Curso-Profesional-de-Bootstrap-4.git"
+  },
+  "keywords": [],
+  "author": "Luis Morgado <lmorgado.lm6@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/LMorgado13/Curso-Profesional-de-Bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/LMorgado13/Curso-Profesional-de-Bootstrap-4#readme",
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-rename": "^1.3.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8"
+  }
+}
